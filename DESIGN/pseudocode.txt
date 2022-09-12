@@ -1,0 +1,31 @@
+Input file type: .txt or .dat 
+
+Input file line structure:
+Job id : Description : Machine number : Time : Client name
+
+structure JOB :
+5 character poniter type fields/variables 
+ 
+#1 Read file and store in datastructure 
+1. Take multiple files as a input from user
+2. Open the files in "read" mode
+3. Check 
+	1:File is available in the directory or not 
+	2:File is empty
+	3:
+4. Parcing the files line by line and check the lines are valid or not.
+5. Seperate the fields and store it into the JOB structure array.
+6. Pass that structure to the Assign_machine(void* JOB) function. 
+7. Repeate steps 4 to 7 for number of files time.
+
+
+#2 (core function)
+Assign_machine(void * job)
+1. Type cast all the fields in the structure into equivalent datatypes
+2. Check the machine number from the structure
+3. Check the machine with same machine number is available or busy in the processing another thread
+4. If machine is free assign the thread to that machine and increase the time count by the value of time in structure. 
+5. If machine is busy continue next file
+
+
+
