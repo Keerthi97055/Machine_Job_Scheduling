@@ -1,0 +1,12 @@
+Jobno=31:Feeding:m3:30:Mechanical
+j16:M3:fourty two:Paper_industry
+jA21:$:M1:45
+J###:***:m3:5 
+j:F:m2:23
+J0yz:Pressing:M9:55:Machinery_process:Power on&off
+J19s:Poster Gumming:M2:Thrity
+J20:M1:60:Raphael WNP Pvt.ltd
+x001:Pipe fitting:M4:35:
+j123vrbuv34329423ndscs:wjnwwuiefv:m2:23
+:30:
+J#$%:F@@$45t6:m2:45:selena:serena

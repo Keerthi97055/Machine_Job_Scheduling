@@ -1,0 +1,11 @@
+ :Chemical Pulping:M3:35
+@J1:Chamfering:m1:10:MAchining_proccess
+j004:Chipping:M4:40:Eric
+J005:Book binding:30:Leon Associates
+j0020:Sand blasting:m1:35
+J0021:Injection moulding:m3:50
+j0022:Pen's refilling:m2:40:iMetrix Manufacturers 
+J0023:Honey extracting:m1:20
+J27:Filtering:m1:5sec:Testing:department
+J10:Groving:m1:&1
+j0030:Umbrella assembling:M3:20:Cognition Marketing

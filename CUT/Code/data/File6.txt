@@ -1,0 +1,11 @@
+J00:Baking:M1:45:VT Corp
+J014:m3:60
+j0028:Carpet Manufacturing:M3:50
+j13:m3:55:Rhaenyra Reality 
+J:Rubber Stamp making:M2:55
+J0017:Drying:Spindle rotate:M1:50:Industry
+j0030:Umbrella assembling:M3:20:Cognition Marketing
+ab:Refiner:2m:55:Eric:...
+jA29:Wood cutting:M2:00:10:02
+J003:Stocking:M:5zero
+j02:Packaging:M2:45
