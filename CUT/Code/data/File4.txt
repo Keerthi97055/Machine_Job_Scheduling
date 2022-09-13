@@ -1,0 +1,11 @@
+J0017:Oil processing:m2:35:Verito Refineries 
+J09:Packaging:M2:b0:Garcia Operators
+j0018:Flour production:m1:40:Pheonix Solutions
+J10:Feeding:M3:fifty
+j22:Processing:m2:45min
+J27:Filtering:m1:5sec:Testing:department
+J10:Groving:m1:&1
+J0019:Pickle making:m3:50:Naidu's Organics
+j0020:Sand blasting:m1:35
+J0021:Injection moulding:m3:50
+ja23;Checking Stock:M3:42

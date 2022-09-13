@@ -1,0 +1,10 @@
+j0022:Pen's refilling:m2:40:iMetrix Manufacturers 
+j011:Delivery:M1:130:Sales_Department
+J0023:Honey extracting:m1:20
+Jv3:Cutting:M2:-35:Stockholm Executioners
+j24:Plastic recycling:m3:35
+Jabc:Soda can canning:m2:40:Fox Domotics
+jF12:Rapid positioning:M4:four0
+J0018:Sheet Metal Cracking:M2
+ja@5:Fine tuning:m2:2^3
+j0026:Aluminum fabrication:m3:50

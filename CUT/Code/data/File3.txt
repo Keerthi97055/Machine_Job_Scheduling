@@ -1,0 +1,10 @@
+j008:Pulping:m:40:Prepration
+j#12:Cup filling:M2:40
+Jxyz:Bleach plant:2M:55:Alena
+jM01:Kneading:A1:50:Manufacturing
+J0013:Color mixing:m3:45
+j@14:Bottle crushing:m1:50
+J015:Drilling:m3:Fifty:AVO Logistics
+J0015:Wood cutting:m2:35
+j0016:Sewing:m3:40:LMT Tools:Textile_Industry0000000
+J00A:Surface painting:M3:3a
