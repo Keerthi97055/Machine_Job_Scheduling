@@ -1,0 +1,21 @@
+ABCD:Pipe bending:M1:45:Expert Accessories
+
+@J1:Chamfering:m1:10:MAchining_proccess
+
+0002:Surface cleaning:M2:30:Nice parts makers
+
+j004:Chipping:M4:40:Eric
+
+X001:Quality checking:m2:60
+
+J005:Book binding:30:Leon Associates
+
+.003:Barking:M1:30:Paper_industry
+
+j006:Surface designing:m7:45
+
+ :Chemical Pulping:M3:35
+
+J007:Iron wielding:M:twenty
+
+J0018:Sheet Metal Cracking:M2
