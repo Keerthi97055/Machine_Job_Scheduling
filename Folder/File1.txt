@@ -1,0 +1,11 @@
+ABCD:Pipe bending:M1:45:Expert Accessories
+J001:Surface painting:M1:30
+J001:Surface painting:M1:30
+0002:Surface cleaning:M2:30:Nice parts makers
+J3:Book binding:M3:50:Unicode Automations:.......
+X001:Quality checking:m2:60
+.003:Barking:M1:30:Paper_industry
+j004:Levering:M2:20
+ :Chemical Pulping:M3:35
+J005:Iron weilding:M3:60:LTPS Infra
+J0023:Honey extracting:m1:20

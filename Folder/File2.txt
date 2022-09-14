@@ -1,0 +1,11 @@
+J0y7:Metal extracting:M3:40
+@J1:Chamfering:m1:10:MAchining_proccess
+j008:Pipe fitiing:M2:30:Espoir Services
+j004:Chipping:M4:40:Eric
+J009:Drilling:M1:55:@project:@sprint1
+J005:Book binding:30:Leon Associates
+j006:Surface designing:m7:45
+j10:Poster gumming:M3:65
+J0011:Metal cracking:M1:30:Aetos Pvt.ltd
+J007:Iron wielding:M:twenty
+J0018:Sheet Metal Cracking:M2
